@@ -3,13 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "Hank",
-    "longName": "ninety_hank_2",
+    "companyName": "Hank/Harry Teicher",
+    "longName": "Ninety Hank DK",
     "projectType": "native",
     "resources": {
         "media": [
             {
                 "file": "images/menu_icon_91w.png",
+                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "png"
             },
@@ -210,8 +211,8 @@
             }
         ]
     },
-    "shortName": "ninety hank 2",
-    "uuid": "03cdc57a-559a-4769-8a88-b505eaea114a",
+    "shortName": "Ninety Hank DK",
+    "uuid": "03cdc57a-559a-4769-8a88-b505eaea114b",
     "versionCode": 2,
     "versionLabel": "2.0",
     "watchapp": {

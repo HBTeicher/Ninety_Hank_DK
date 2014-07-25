@@ -493,8 +493,8 @@ static void init(void) {
 
   
   // Second tick
-  handle_second_tick(tick_time, SECOND_UNIT);
-  tick_timer_service_subscribe(SECOND_UNIT, &handle_second_tick);
+  //handle_second_tick(tick_time, SECOND_UNIT);
+  //tick_timer_service_subscribe(SECOND_UNIT, &handle_second_tick);
   
   battery_state_service_subscribe(&handle_battery);
   handle_battery(battery_state_service_peek());
